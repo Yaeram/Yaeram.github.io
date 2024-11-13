@@ -1,1 +1,1 @@
-# Yaeram.github.io
+Локальный чат реализованный с помощью Python и библиотеки Flask + json
